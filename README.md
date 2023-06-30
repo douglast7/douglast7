@@ -3,7 +3,7 @@
 ## 💜 Olá, meu nome é <strong>{Douglas Teixeira}!</strong>
 
 <p align="left">
-  <h3> :woman: &nbsp;Sobre mim </h3>
+  <h3>Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias.
 - 🎓 &nbsp; Estudando **Sistema de Informação** na <a href="link da sua faculdade">Estácio</a>.
@@ -15,7 +15,8 @@
 </p>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<i class="devicon-javascript-plain colored"></i>
+
 
 <a href="https://github.com/douglast7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglast7&theme=onedarkpro&show_icons=true" />
