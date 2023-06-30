@@ -26,6 +26,6 @@
 
 <p align="left">
   <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/douglas-teixeira-2324501ba/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-teixeira-2324501ba/" /></a>
 </p>  
